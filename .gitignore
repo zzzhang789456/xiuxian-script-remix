@@ -1,0 +1,12 @@
+# Git
+.git/
+.gitignore
+*.swp
+.DS_Store
+Thumbs.db
+
+# 临时分析产物
+_an/
+_cmp/
+_analysis/
+*.tmp
